@@ -4,4 +4,6 @@
     <string name="message">Message</string>
     <string name="send">Send</string>
     <string name="hint_email">Enter email adress</string>
+    <string name="milk">Milk</string>
+    <string name="sugar">Sugar</string>
 </resources>
